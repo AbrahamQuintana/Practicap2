@@ -9,5 +9,6 @@ Dos enteros N y C seguidos de N parejas de enteros P, V que denotan el peso y el
 Salida
 Un entero que sea la máxima suma de valores que se puede lograr.
 
-[image](https://github.com/AbrahamQuintana/Practicap2/assets/159679407/74dc5c7d-4969-4e3b-81e5-0cd8bc2b7a8a)
+
+![image](https://github.com/AbrahamQuintana/Practicap2/assets/159679407/264bebf5-ccdb-48d8-9c60-f98f543cc533)
 
